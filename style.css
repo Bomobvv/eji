@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Waltograph;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    background-image: url('img3.JPG'); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.header {
+    background-color: #333; /* Dark background color */
+    color: #d10000; /* White text color */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: blur;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: #ac2f2f;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+ /* Footer styles */
+ footer {
+    background-color: blur;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+}
